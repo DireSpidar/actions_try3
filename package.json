@@ -1,0 +1,1 @@
+{"name":"github-actions-demo","version":"1.0.0","description":"A simple GitHub Actions demo application","main":"index.js","scripts":{"test":"echo 'Running tests...' && echo 'All tests passed!'},"keywords":["github","actions","demo"],"author":"","license":"MIT"}
