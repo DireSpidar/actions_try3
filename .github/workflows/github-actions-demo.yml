@@ -10,4 +10,4 @@ jobs:
       - name: Log message
         run: echo "Repository cloned and workflow running!"
       - name: Run a one-line script
-        run: echo Hello, world!
+        run: index.js
